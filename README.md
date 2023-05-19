@@ -24,3 +24,7 @@ ASP.NET 학습 리포지토리
 Bootstrap album
 
 ![05](https://github.com/JeongJaeAhn/Aspnet_2023/blob/main/images/bootstrapalbum.gif)
+
+핀터레스트스타일
+
+![05](https://github.com/JeongJaeAhn/Aspnet_2023/blob/main/images/pinterest.gif)
