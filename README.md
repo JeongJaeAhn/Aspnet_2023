@@ -28,3 +28,13 @@ Bootstrap album
 핀터레스트스타일
 
 ![05](https://github.com/JeongJaeAhn/Aspnet_2023/blob/main/images/pinterest.gif)
+
+## 4일차
+- ASP.NET MVC
+	- ASP.NET 기본
+	- ASP.NET 프로젝트
+	
+	
+## 5일차
+- ASP.NET MVC
+	- 게시판 계속
