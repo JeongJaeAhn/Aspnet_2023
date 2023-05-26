@@ -58,7 +58,17 @@ Bootstrap album
 ## 8일차
 - ASP.NET Core MVC
 	- 부트스트랩 테마(SEO Dream) 적용
-
+	
+## 9일차
+- ASP.NET Core MVC
+	- SEO Dream 테마 완료
 - ASP.NET RestAPI
+	- RestAPI Server
+	- WPF Client
+	
+## 10일차
+- ASP.NET RestAPI
+	- RestAPI Server
+	- WPF Client	
 - 개인포트폴리오
 	- 부트스트랩 테마 재적용
