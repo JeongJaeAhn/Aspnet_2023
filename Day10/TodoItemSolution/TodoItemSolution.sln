@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApiServer", "TodoApiServer\TodoApiServer.csproj", "{CC872AB9-D7C2-4C23-A43F-07D6D2FEBCD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApiServer", "TodoApiServer\TodoApiServer.csproj", "{CC872AB9-D7C2-4C23-A43F-07D6D2FEBCD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookRentalShopApi", "BookRentalShopApi\BookRentalShopApi.csproj", "{AAF53234-3191-4384-8E2F-9A18C6D416A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookRentalShopApi", "BookRentalShopApi\BookRentalShopApi.csproj", "{AAF53234-3191-4384-8E2F-9A18C6D416A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoItemWeb", "TodoItemWeb\TodoItemWeb.csproj", "{71920837-A2F3-444C-AD52-3A24361AEB9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoItemApp", "TodoItemApp\TodoItemApp.csproj", "{24269258-5005-42AA-8A44-CE680BAAE968}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{AAF53234-3191-4384-8E2F-9A18C6D416A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAF53234-3191-4384-8E2F-9A18C6D416A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAF53234-3191-4384-8E2F-9A18C6D416A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71920837-A2F3-444C-AD52-3A24361AEB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71920837-A2F3-444C-AD52-3A24361AEB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71920837-A2F3-444C-AD52-3A24361AEB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71920837-A2F3-444C-AD52-3A24361AEB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24269258-5005-42AA-8A44-CE680BAAE968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24269258-5005-42AA-8A44-CE680BAAE968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24269258-5005-42AA-8A44-CE680BAAE968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24269258-5005-42AA-8A44-CE680BAAE968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
