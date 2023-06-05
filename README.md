@@ -87,3 +87,11 @@ Bootstrap album
 - ASP.NET RestAPI
 	- RestAPI Server 수정
 	- FrontEnd Server 작업계속
+	
+## 13일차
+- ASP.NET RestAPI
+	- WPF 앱 연동
+	
+RestAPI사용 WPF APP 및 Web화면
+
+![05](https://github.com/JeongJaeAhn/Aspnet_2023/blob/main/images/RestApi.png)

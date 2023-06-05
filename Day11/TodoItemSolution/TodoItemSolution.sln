@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApiServer", "TodoApiSer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookRentalShopApi", "BookRentalShopApi\BookRentalShopApi.csproj", "{568E74F5-763B-454F-A484-978B04AA810B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoItemWeb", "TodoItemWeb\TodoItemWeb.csproj", "{5CB2B4A4-0FF0-41F2-A925-31BFBE3651B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoItemWeb", "TodoItemWeb\TodoItemWeb.csproj", "{5CB2B4A4-0FF0-41F2-A925-31BFBE3651B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoItemApp", "TodoItemApp\TodoItemApp.csproj", "{778A2773-926A-4063-A0AB-C3BCD0A180BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5CB2B4A4-0FF0-41F2-A925-31BFBE3651B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CB2B4A4-0FF0-41F2-A925-31BFBE3651B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CB2B4A4-0FF0-41F2-A925-31BFBE3651B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778A2773-926A-4063-A0AB-C3BCD0A180BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778A2773-926A-4063-A0AB-C3BCD0A180BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778A2773-926A-4063-A0AB-C3BCD0A180BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778A2773-926A-4063-A0AB-C3BCD0A180BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
